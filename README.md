@@ -18,11 +18,13 @@ https://bom.szlcsc.com/bom.html
 
 
 
-
+## USB 2.0 to USB Type-C
 
 [**How to easily move from USB 2.0 to USB Type-C**](http://e2e.ti.com/blogs_/b/analogwire/archive/2015/09/02/how-to-easily-move-from-usb-2-0-to-usb-type-c)
 
 [Oh Say Can You C? – Grappling with the USB type-C Connector](https://resources.orcad.com/orcad-blog/oh-say-can-you-c-grappling-with-the-usb-type-c-connector)
+
+[Type-A接口改成Type-c接口的实验设计](http://www.elecfans.com/emb/jiekou/20190505929062.html)
 
 ## PCB Design Rules
 
