@@ -24,3 +24,8 @@ https://bom.szlcsc.com/bom.html
 
 [Oh Say Can You C? – Grappling with the USB type-C Connector](https://resources.orcad.com/orcad-blog/oh-say-can-you-c-grappling-with-the-usb-type-c-connector)
 
+## PCB Design Rules
+
+SMD Pads Clearance -- 0.2 mil
+
+TH Pads Clearance -- 0.15 mil
