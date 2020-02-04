@@ -26,11 +26,15 @@ https://bom.szlcsc.com/bom.html
 
 [Type-A接口改成Type-c接口的实验设计](http://www.elecfans.com/emb/jiekou/20190505929062.html)
 
+
+
 ## PCB Design Rules
 
 SMD Pads Clearance -- 0.2 mil
 
 TH Pads Clearance -- 0.15 mil
+
+
 
 ## 元件选型说明
 
@@ -39,6 +43,8 @@ TH Pads Clearance -- 0.15 mil
 原Mega 2560中 MH2029-300Y 磁珠 ，改为 BLM21PG300SN1D 0805 30 欧 @ 100MHz
 
 MF-MSMF050 0.5A 15V 自恢复保险丝 立创商城需订货，改为 https://item.szlcsc.com/13192.html （相同封装）
+
+俩RESET不要选元件
 
 ## PCB注意事项
 
