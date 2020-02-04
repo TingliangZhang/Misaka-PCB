@@ -31,3 +31,9 @@ https://bom.szlcsc.com/bom.html
 SMD Pads Clearance -- 0.2 mil
 
 TH Pads Clearance -- 0.15 mil
+
+## 元件选型说明
+
+原Mega 2560中 LMV358IDGKR 立创商城需订货，改为LM358DR2G通用运放
+
+原Mega 2560中 MH2029-300Y 磁珠 ，改为 BLM21PG300SN1D 0805 30 欧 @ 100MHz
