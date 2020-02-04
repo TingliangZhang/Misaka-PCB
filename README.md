@@ -38,8 +38,8 @@ TH Pads Clearance -- 0.15 mil
 
 原Mega 2560中 MH2029-300Y 磁珠 ，改为 BLM21PG300SN1D 0805 30 欧 @ 100MHz
 
-
+MF-MSMF050 0.5A 15V 自恢复保险丝 立创商城需订货，改为 https://item.szlcsc.com/13192.html （相同封装）
 
 ## PCB注意事项
 
-和DTR 隔着100nF的Reset要连着和+5V隔着10kOhm的焊盘，以便SMT跳线能起作用
+和DTR 隔着100nF的Reset要连着和+5V隔着10kOhm的焊盘，以便SMT跳线能起作用。
