@@ -46,6 +46,10 @@ MF-MSMF050 0.5A 15V 自恢复保险丝 立创商城需订货，改为 https://it
 
 俩RESET不要选元件
 
+CG0603MLC-05E  ESD 抑制器/TVS 二极管，立创商城无货，改为[**0603ESDA-05N**](https://item.szlcsc.com/297742.html)
+
+
+
 ## PCB注意事项
 
 和DTR 隔着100nF的Reset要连着和+5V隔着10kOhm的焊盘，以便SMT跳线能起作用。
