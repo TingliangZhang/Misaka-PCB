@@ -1,0 +1,10 @@
+Added Component: Designator=U?(OLMX-ESP-WROOM-32)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.espressif.com/sites/default/files/documentation/esp-wroom-32_datasheet_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 2.1, 09/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Olimex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.olimex.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "38-Pin Surface Mount Device, Body 18 x 25.5 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "ESP-WROOM-32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "false"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component U? ESP-WROOM-32
