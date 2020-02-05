@@ -1,0 +1,56 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=C? NewDesignator=C22
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Change Component Designator: OldDesignator=C? NewDesignator=C24
+Change Component Designator: OldDesignator=C? NewDesignator=C25
+Change Component Designator: OldDesignator=C? NewDesignator=C26
+Change Component Designator: OldDesignator=C? NewDesignator=C27
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Change Component Designator: OldDesignator=U? NewDesignator=U6
+Change Component Designator: OldDesignator=U? NewDesignator=U7
+Change Component Designator: OldDesignator=U? NewDesignator=U8
+Change Component Designator: OldDesignator=U? NewDesignator=U9
+Change Component Designator: OldDesignator=U? NewDesignator=U10
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU5_2
+Added Pin To Net: NetName=NetU2_2 Pin=U2-2
+Added Pin To Net: NetName=NetU2_2 Pin=U3-4
+Added Net: Name=NetU2_2
+Added Pin To Net: NetName=NetU3_2 Pin=U3-2
+Added Pin To Net: NetName=NetU3_2 Pin=U4-4
+Added Net: Name=NetU3_2
+Added Pin To Net: NetName=NetU4_2 Pin=U4-2
+Added Pin To Net: NetName=NetU4_2 Pin=U5-4
+Added Net: Name=NetU4_2
+Added Pin To Net: NetName=NetU6_2 Pin=U6-2
+Added Pin To Net: NetName=NetU6_2 Pin=U7-4
+Added Net: Name=NetU6_2
+Added Pin To Net: NetName=NetU7_2 Pin=U7-2
+Added Pin To Net: NetName=NetU7_2 Pin=U8-4
+Added Net: Name=NetU7_2
+Added Pin To Net: NetName=NetU8_2 Pin=U8-2
+Added Pin To Net: NetName=NetU8_2 Pin=U9-4
+Added Net: Name=NetU8_2
+Added Pin To Net: NetName=NetU9_2 Pin=U9-2
+Added Pin To Net: NetName=NetU9_2 Pin=U10-4
+Added Net: Name=NetU9_2
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component C19 100nF (104) 10% 50V
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component C20 100nF (104) 10% 50V
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component C22 100nF (104) 10% 50V
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component C23 100nF (104) 10% 50V
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component C24 100nF (104) 10% 50V
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component C25 100nF (104) 10% 50V
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component C26 100nF (104) 10% 50V
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component C27 100nF (104) 10% 50V
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component U2 WS2812B
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component U3 WS2812B
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component U4 WS2812B
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component U5 WS2812B
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component U6 WS2812B
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component U7 WS2812B
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component U9 WS2812B
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component U10 WS2812B
