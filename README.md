@@ -1,6 +1,6 @@
 # Misaka-PCB
 
-
+计划在设计完SCH电路图之后，改用KiCAD画，并全程录屏做延时视频。
 
 ## BOM智能配单
 
@@ -55,3 +55,15 @@ CG0603MLC-05E  ESD 抑制器/TVS 二极管，立创商城无货，改为[**0603E
 和DTR 隔着100nF的Reset要连着和+5V隔着10kOhm的焊盘，以便SMT跳线能起作用。
 
 X为水平左右翻转；Y为垂直上下翻转
+
+
+
+## Cadence/OrCAD
+
+Cadence Orcad Allegro Sigrity相关软件资源下载
+
+https://www.mr-wu.cn/cadence-orcad-allegro-resource-downloads/
+
+在线编辑器
+
+**https://orcadcloud.ema-eda.com/**
