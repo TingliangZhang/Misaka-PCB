@@ -34,7 +34,7 @@ SMD Pads Clearance -- 0.2 mil
 
 TH Pads Clearance -- 0.15 mil
 
-
+SMD Pads - Fill Clearance -- 0 mil   SMD Pads - Track -- 0 mil     XBEE模块的天线KEEPOUT FILL
 
 ## 元件选型说明
 
