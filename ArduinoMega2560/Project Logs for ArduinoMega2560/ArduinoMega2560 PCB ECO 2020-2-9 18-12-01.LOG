@@ -1,0 +1,328 @@
+Added Component: Designator=C-VSREG(0603_C)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_15331.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C14663"; VariantName = "[No Variations]"
+Added Component: Designator=C?(PNSC-FK-V-H13_V)
+Add component (AddParameter): Name = "AE Capacitor Case"; Value = "RadialCan-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "220μF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance ±"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Terminals"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "12.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "External Length / Height"; Value = "13.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "0.16ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life Time @ Temperature"; Value = "2000hours@105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime @ Temperature"; Value = "2000hours@105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating life Time"; Value = "2000h"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Lifetime"; Value = "2000h"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55°Cto+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "H13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Electrolytic Aluminum Capacitor, Body 13.5 x 13.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "FK-V-H13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/DME0000COL48.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "CutTape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Factor"; Value = "0.08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Factor Frequency"; Value = "120Hz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "PANASONIC-?????FK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current AC"; Value = "800mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "FK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "NoSVHC(16-Dec-2013)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance -"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance +"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "63V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating V DC"; Value = "63V"; VariantName = "[No Variations]"
+Added Component: Designator=C BOOT(0603_C)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_1975.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C1623"; VariantName = "[No Variations]"
+Added Component: Designator=C FLY(0603_C)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_1974.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C1622"; VariantName = "[No Variations]"
+Added Component: Designator=C VCCREG(0603_C)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_15331.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C14663"; VariantName = "[No Variations]"
+Added Component: Designator=C VCC(0603_C)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_1975.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C1623"; VariantName = "[No Variations]"
+Added Component: Designator=C VDD(0603_C)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_15331.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C14663"; VariantName = "[No Variations]"
+Added Component: Designator=C VREGPOL(PNSC-EEE-FK1H220P_L)
+Add component (AddParameter): Name = "Capacitance"; Value = "22μF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Size/Dimension"; Value = "?6.3x5.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.mouser.com/ds/2/315/ABA0000CE120-68386.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "03/2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "0.88O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime@Temperature"; Value = "2000Hrs@105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55to+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp-Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Aluminum Electrolytic Capacitor, Base 6.6 x 6.6 mm, Height 6.10 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "EEE-FK1H220P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "165mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "FK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Can"; VariantName = "[No Variations]"
+Added Component: Designator=C VREG(0603_C)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_15331.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C14663"; VariantName = "[No Variations]"
+Added Component: Designator=C VS(0603_C)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_21832.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C21120"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SMA(DO-214AC)_S1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_2841.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = "1N4007 4007 编号C2464 已经停售, 使用新物料编号C95872"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMA(DO-214AC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C95872"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SMA(DO-214AC)_S1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_2841.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = "1N4007 4007 编号C2464 已经停售, 使用新物料编号C95872"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMA(DO-214AC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C95872"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X20)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=PIN OUT HEADER ?(HDR1X10)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=PIN OUT HEADER ?(HDR1X10)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603_R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_23880.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C23153"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603_R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_23880.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C23153"; VariantName = "[No Variations]"
+Added Component: Designator=RA(0603_R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_23536.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C22809"; VariantName = "[No Variations]"
+Added Component: Designator=RB(0603_R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_26546.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C25803"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(TECO-FSMSM-2_V)
+Add component (AddParameter): Name = "Actuator Length"; Value = "1.07mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Material"; Value = "Polyamide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "100mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1437566-3%7FC2%7Fpdf%7FEnglish%7FENG_CD_1437566-3_C2_1437566_3_1_c.dwg.pdf%7F1437566-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. C2, 08/2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "20000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ELV"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Type"; Value = "Illuminated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.te.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "20000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-35degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "180gf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 6 x 3.5 mm, Pitch 9.19 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "FSMSM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "LoosePiece"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "0.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "GullWing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "24V"; VariantName = "[No Variations]"
+Added Component: Designator=TEST HEADER(HDR2X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PWRIN Pin=C-VSREG-1
+Added Pin To Net: NetName=GND Pin=C-VSREG-2
+Added Pin To Net: NetName=PWRIN Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=PWRIN Pin=C BOOT-1
+Added Pin To Net: NetName=GND Pin=C VCC-1
+Added Pin To Net: NetName=GND Pin=C VCCREG-1
+Added Pin To Net: NetName=GND Pin=C VDD-1
+Added Pin To Net: NetName=GND Pin=C VREG-1
+Added Pin To Net: NetName=GND Pin=C VREGPOL-2
+Added Pin To Net: NetName=GND Pin=C VS-1
+Added Pin To Net: NetName=PWRIN Pin=C VS-2
+Added Pin To Net: NetName=PWRIN Pin=D?-1
+Added Pin To Net: NetName=GND Pin=RA-1
+Added Pin To Net: NetName=PWRIN Pin=RB-2
+Added Pin To Net: NetName=GND Pin=SW?-1
+Added Pin To Net: NetName=+3.3V Pin=TEST HEADER-3
+Added Pin To Net: NetName=+5 Pin=TEST HEADER-5
+Added Pin To Net: NetName=GND Pin=TEST HEADER-6
+Added Pin To Net: NetName=GND Pin=U15-9
+Added Pin To Net: NetName=D39 Pin=U15-19
+Added Pin To Net: NetName=GND Pin=U15-20
+Added Pin To Net: NetName=GND Pin=U15-34
+Added Pin To Net: NetName=GND Pin=U15-35
+Added Pin To Net: NetName=GND Pin=U15-36
+Added Pin To Net: NetName=GND Pin=U15-39
+Added Pin To Net: NetName=GND Pin=U15-40
+Added Pin To Net: NetName=GND Pin=U15-41
+Added Pin To Net: NetName=PWRIN Pin=U15-61
+Added Pin To Net: NetName=GND Pin=U15-77
+Added Pin To Net: NetName=GND Pin=U15-78
+Added Pin To Net: NetName=GND Pin=U15-79
+Added Pin To Net: NetName=GND Pin=U15-82
+Added Pin To Net: NetName=GND Pin=U15-83
+Added Pin To Net: NetName=GND Pin=U15-84
+Added Pin To Net: NetName=GND Pin=U15-99
+Added Pin To Net: NetName=GND Pin=U15-100
+Added Pin To Net: NetName=GND Pin=U15-101
+Added Pin To Net: NetName=GND Pin=U15-102
+Added Pin To Net: NetName=ADCIN Pin=RA-2
+Added Pin To Net: NetName=ADCIN Pin=RB-1
+Added Pin To Net: NetName=ADCIN Pin=U15-54
+Added Net: Name=ADCIN
+Added Pin To Net: NetName=BUSY Pin=R?-1
+Added Pin To Net: NetName=BUSY Pin=U15-15
+Added Net: Name=BUSY
+Added Pin To Net: NetName=CP Pin=C FLY-2
+Added Pin To Net: NetName=CP Pin=U15-57
+Added Net: Name=CP
+Added Pin To Net: NetName=FLAG Pin=R?-1
+Added Pin To Net: NetName=FLAG Pin=U15-16
+Added Net: Name=FLAG
+Added Pin To Net: NetName=MISO Pin=IC2-22
+Added Pin To Net: NetName=MISO Pin=P2-1
+Added Pin To Net: NetName=MISO Pin=U15-14
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=IC2-21
+Added Pin To Net: NetName=MOSI Pin=P2-4
+Added Pin To Net: NetName=MOSI Pin=U15-12
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetC BOOT_2 Pin=C BOOT-2
+Added Pin To Net: NetName=NetC BOOT_2 Pin=D?-2
+Added Pin To Net: NetName=NetC BOOT_2 Pin=U15-56
+Added Net: Name=NetC BOOT_2
+Added Pin To Net: NetName=NetC FLY_1 Pin=C FLY-1
+Added Pin To Net: NetName=NetC FLY_1 Pin=D?-1
+Added Pin To Net: NetName=NetC FLY_1 Pin=D?-2
+Added Net: Name=NetC FLY_1
+Added Pin To Net: NetName=NetC VCC_2 Pin=C VCC-2
+Added Pin To Net: NetName=NetC VCC_2 Pin=C VCCREG-2
+Added Pin To Net: NetName=NetC VCC_2 Pin=U15-58
+Added Pin To Net: NetName=NetC VCC_2 Pin=U15-60
+Added Net: Name=NetC VCC_2
+Added Pin To Net: NetName=NetC VDD_2 Pin=C VDD-2
+Added Pin To Net: NetName=NetC VDD_2 Pin=C VREG-2
+Added Pin To Net: NetName=NetC VDD_2 Pin=C VREGPOL-1
+Added Pin To Net: NetName=NetC VDD_2 Pin=R?-2
+Added Pin To Net: NetName=NetC VDD_2 Pin=R?-2
+Added Pin To Net: NetName=NetC VDD_2 Pin=U15-13
+Added Pin To Net: NetName=NetC VDD_2 Pin=U15-62
+Added Net: Name=NetC VDD_2
+Added Pin To Net: NetName=NetSW?_2 Pin=SW?-2
+Added Pin To Net: NetName=NetSW?_2 Pin=U15-18
+Added Net: Name=NetSW?_2
+Added Pin To Net: NetName=RX3 Pin=IC2-63
+Added Pin To Net: NetName=RX3 Pin=TEST HEADER-4
+Added Net: Name=RX3
+Added Pin To Net: NetName=SCK Pin=IC2-20
+Added Pin To Net: NetName=SCK Pin=P2-3
+Added Pin To Net: NetName=SCK Pin=U15-11
+Added Net: Name=SCK
+Added Pin To Net: NetName=SS Pin=IC2-19
+Added Pin To Net: NetName=SS Pin=TEST HEADER-1
+Added Pin To Net: NetName=SS Pin=U15-10
+Added Net: Name=SS
+Added Pin To Net: NetName=STCK Pin=U15-17
+Added Net: Name=STCK
+Added Pin To Net: NetName=TX3 Pin=IC2-64
+Added Pin To Net: NetName=TX3 Pin=TEST HEADER-2
+Added Net: Name=TX3
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component C-VSREG 100nF (104) 10% 50V
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component C? EEVFK1J221Q
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component C BOOT 470nF (474) 10% 25V
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component C FLY 47nF (473) 10% 50V
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component C VCCREG 100nF (104) 10% 50V
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component C VCC 470nF (474) 10% 25V
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component C VDD 100nF (104) 10% 50V
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component C VREGPOL EEE-FK1H220P
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component C VREG 100nF (104) 10% 50V
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component C VS 220nF (224) 10% 25V
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component D? M7
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component D? M7
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component P? Header 20
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component PIN OUT HEADER ? Header 10
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component PIN OUT HEADER ? Header 10
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component R? 39KΩ (3902) ±1%
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component R? 39KΩ (3902) ±1%
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component RA 15KΩ (1502) ±1%
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component RB 100KΩ (1003) ±1%
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component SW? 3×6贴片轻触开关
+Added Member To Class: ClassName=ArduinoMega2560 Member=Component TEST HEADER Header 3X2
