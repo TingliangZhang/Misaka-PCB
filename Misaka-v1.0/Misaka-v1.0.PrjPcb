@@ -71,6 +71,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CVWUDKQU
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Misaka-v1.0\Design Rule Check - Misaka-v1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
