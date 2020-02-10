@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Misaka-v1.0.PcbDoc   2020/2/10  20:32:29
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Misaka-v1.0-RoundHoles.TXT
+ASCII SlotHoles File : Misaka-v1.0-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             13        PTH        0.00inch (0.00mm)
+T2      16mil (0.4mm)                                             Round             286       PTH        0.00inch (0.00mm)
+T3      24mil (0.6mm)                                             Round             8         PTH        0.00inch (0.00mm)
+T4      24mil (0.6mm)                                             Slot              8         PTH        0.00inch (0.00mm)
+T5      35mil (0.9mm)                                             Round             193       PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              508
+
+Total Processing Time (hh:mm:ss) : 00:00:00

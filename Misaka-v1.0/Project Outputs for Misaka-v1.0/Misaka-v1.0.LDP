@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Joey\Desktop\Swarm2020\Misaka-PCB\Misaka-v1.0\Misaka-v1.0.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=misaka-v1.0-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=misaka-v1.0-slotholes.txt|DrillLayers=gtl,gbl
