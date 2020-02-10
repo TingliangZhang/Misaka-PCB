@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=PIN OUT HEADER 1 NewDesignator=PIN-OUT
+Change Component Designator: OldDesignator=TEST HEADER1 NewDesignator=TEST-HEADER1
+Change Component Designator: OldDesignator=TEST HEADER NewDesignator=TEST-HEADER
+Change Net Name : Old Net Name=NetPIN OUT HEADER 1_1 New Net Name=NetPIN-OUT_1
+Change Net Name : Old Net Name=NetPIN OUT HEADER 1_2 New Net Name=NetPIN-OUT_2
+Change Net Name : Old Net Name=NetPIN OUT HEADER 1_3 New Net Name=NetPIN-OUT_3
+Change Net Name : Old Net Name=NetPIN OUT HEADER 1_4 New Net Name=NetPIN-OUT_4
+Change Net Name : Old Net Name=NetPIN OUT HEADER 1_5 New Net Name=NetPIN-OUT_5
+Change Net Name : Old Net Name=NetPIN OUT HEADER 1_6 New Net Name=NetPIN-OUT_6
+Change Net Name : Old Net Name=NetPIN OUT HEADER 1_7 New Net Name=NetPIN-OUT_7
+Change Net Name : Old Net Name=NetPIN OUT HEADER 1_8 New Net Name=NetPIN-OUT_8
+Change Net Name : Old Net Name=NetPIN OUT HEADER 1_9 New Net Name=NetPIN-OUT_9
+Change Net Name : Old Net Name=NetPIN OUT HEADER 1_10 New Net Name=NetPIN-OUT_10
+Change Net Name : Old Net Name=NetPIN OUT HEADER 1_11 New Net Name=NetPIN-OUT_11
+Change Net Name : Old Net Name=NetPIN OUT HEADER 1_12 New Net Name=NetPIN-OUT_12
+Change Net Name : Old Net Name=NetPIN OUT HEADER 1_13 New Net Name=NetPIN-OUT_13
+Change Net Name : Old Net Name=NetPIN OUT HEADER 1_14 New Net Name=NetPIN-OUT_14
+Change Net Name : Old Net Name=NetPIN OUT HEADER 1_19 New Net Name=NetPIN-OUT_19
+Change Net Name : Old Net Name=NetPIN OUT HEADER 1_20 New Net Name=NetPIN-OUT_20
+Change Net Name : Old Net Name=NetPIN OUT HEADER 1_21 New Net Name=NetPIN-OUT_21
+Added Room: Name=Misaka-v1.0

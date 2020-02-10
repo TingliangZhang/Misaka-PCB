@@ -1,11 +1,10 @@
 Output: Generates pick and place files
 Type  : Pick Place
 From  : Variant [[No Variations]] of Project [Misaka-v1.0.PrjPcb]
-   Generated File[Pick Place for Misaka-v1.0.txt]
    Generated File[Pick Place for Misaka-v1.0.csv]
 
 
-Files Generated   : 2
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 20:55:34 On 2020/2/10
+Finished Output Generation At 21:10:06 On 2020/2/10

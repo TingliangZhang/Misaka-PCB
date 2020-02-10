@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=C BOOT NewDesignator=C-BOOT
+Change Component Designator: OldDesignator=C FLY NewDesignator=C-FLY
+Change Component Designator: OldDesignator=C VCC NewDesignator=C-VCC
+Change Component Designator: OldDesignator=C VCCREG NewDesignator=C-VCCREG
+Change Component Designator: OldDesignator=C VDD NewDesignator=C-VDD
+Change Component Designator: OldDesignator=C VREG NewDesignator=C-VREG
+Change Component Designator: OldDesignator=C VREGPOL NewDesignator=C-VREGPOL
+Change Component Designator: OldDesignator=C VS NewDesignator=C-VS
+Change Net Name : Old Net Name=NetC BOOT_2 New Net Name=NetC-BOOT_2
+Change Net Name : Old Net Name=NetC FLY_1 New Net Name=NetC-FLY_1
+Change Net Name : Old Net Name=NetC VCC_2 New Net Name=NetC-VCC_2
+Change Net Name : Old Net Name=NetC VDD_2 New Net Name=NetC-VDD_2
+Added Room: Name=Misaka-v1.0
